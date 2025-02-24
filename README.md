@@ -6,7 +6,7 @@ Currently focussing mostly on frontend web development, especially in Angular.
 
 ## control.alt.coop
 
-We are a self-organized, worker-owned is a software development collective, based in Berlin.
+We are a self-organized, worker-owned, software development collective, based in Berlin.
 
 Interested in working with us? We are currently open to working on new projects. Contact us at kontakt@control.alt.coop
 
